@@ -29,3 +29,18 @@ button{
 footer{
     border-top: 2px solid red;
 }
+header{
+    background-color: aqua;
+    color: white;
+    margin: 10px;
+}
+nav{
+    background-color: blueviolet;
+    margin: 2px;
+    color: black;
+}
+title{
+    font-size: medium;
+    text-align: center;
+    color:black
+}
