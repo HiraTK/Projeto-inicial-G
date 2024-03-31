@@ -25,5 +25,7 @@ p{
 button{
     background-color: blue;
     color:white;
-    
+}
+footer{
+    border-top: 2px solid red;
 }
