@@ -14,3 +14,8 @@ nav {
     line-height: 1.5cm;
 
 }
+form{
+    border-width: 2px;
+    color: gray;
+    padding: 2,5px 2,5px 2,5px 2,5px;
+}
