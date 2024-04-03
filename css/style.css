@@ -15,9 +15,9 @@ nav {
 
 }
 form{
-    border-width: 2px;
+    border-width: 1px;
     color: gray;
-    padding: 2,5px 2,5px 2,5px 2,5px;
+    padding: 10px auto;
 }
 p{
     color: green;
@@ -35,7 +35,6 @@ header{
     margin: 10px;
 }
 nav{
-    background-color: blueviolet;
     margin: 2px;
     color: black;
 }
